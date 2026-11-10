@@ -10,6 +10,8 @@
 
 По правой кнопке по иконке в трее есть выпадающее меню.
 
+Скачать можно в [разделе релизов](https://github.com/ich-z/pink/releases).
+
 Скриншоты:
 
 * ![](https://github.com/ich-z/pink/blob/main/screenshots/01.png)
