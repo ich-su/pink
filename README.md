@@ -10,12 +10,12 @@
 
 По правой кнопке по иконке в трее есть выпадающее меню.
 
-Скачать можно в [разделе релизов](https://github.com/ich-z/pink/releases).
+Скачать можно в [разделе релизов](https://github.com/ich-su/pink/releases).
 
 Скриншоты:
 
-* ![](https://github.com/ich-z/pink/blob/main/screenshots/01.png)
-* ![](https://github.com/ich-z/pink/blob/main/screenshots/02.png)
-* ![](https://github.com/ich-z/pink/blob/main/screenshots/03.png)
+* ![](./screenshots/01.png)
+* ![](./screenshots/02.png)
+* ![](./screenshots/03.png)
 
 ps. Леха, привет!
