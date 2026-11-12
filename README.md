@@ -19,3 +19,6 @@
 * ![](./screenshots/03.png)
 
 ps. Леха, привет!
+
+страница проекта на гитхабе:
+[github.com/ich-su/pink](https://github.com/ich-su/pink)
